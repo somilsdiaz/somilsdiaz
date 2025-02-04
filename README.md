@@ -20,24 +20,32 @@ Soy **Ingeniero en Sistemas y Computación** con una sólida formación en desar
 ---
 
 ## 💻 Habilidades Técnicas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" alt="Programming Languages" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="background: linear-gradient(145deg, #1e1e1e, #2a2a2a); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+    <h3 style="color: #FFD700;">Lenguajes</h3>
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" alt="Programming Languages" style="filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.5));">
+  </div>
+  
+  <div style="background: linear-gradient(145deg, #1e1e1e, #2a2a2a); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+    <h3 style="color: #00FFFF;">Desarrollo Web</h3>
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,tailwind" alt="Web Development" style="filter: drop-shadow(0 0 10px rgba(0, 255, 255, 0.5));">
+  </div>
+  
+  <div style="background: linear-gradient(145deg, #1e1e1e, #2a2a2a); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+    <h3 style="color: #FF4500;">Bases de Datos</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases" style="filter: drop-shadow(0 0 10px rgba(255, 69, 0, 0.5));">
+  </div>
+  
+  <div style="background: linear-gradient(145deg, #1e1e1e, #2a2a2a); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+    <h3 style="color: #8A2BE2;">Herramientas</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Tools and Technologies" style="filter: drop-shadow(0 0 10px rgba(138, 43, 226, 0.5));">
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,tailwind" alt="Web Development" />
-</div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases" />
-</div>
+<br><br>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Tools and Technologies" />
-</div>
-
-
-#### Lenguajes y Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -46,8 +54,6 @@ Soy **Ingeniero en Sistemas y Computación** con una sólida formación en desar
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### Herramientas y Tecnologías
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -57,43 +63,55 @@ Soy **Ingeniero en Sistemas y Computación** con una sólida formación en desar
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
+
+---
+
+## **📚 Educación**
+
+<div align="center" style="background: linear-gradient(145deg, #1e1e1e, #2a2a2a); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+  <h3 style="color: #FFFFFF;">🎓 Ingeniería en Sistemas y Computación</h3>
+  <p style="color: #CCCCCC;">Universidad del Norte, Barranquilla, Colombia</p>
+</div>
 
 ---
 
 
-## 📚 **Educación**
-- **Ingeniería en Sistemas y Computación**  
-  Universidad del Norte, Barranquilla, Colombia  
-  *Fecha de graduación esperada: Mediados de 2025*
+## **🏆 Proyectos Destacados**
 
----
-
-## 🏆 Proyectos Destacados
-
-### NovaMart E-Commerce 🛒
+### **NovaMart E-Commerce 🛒**
 > Plataforma de comercio electrónico dinámica desarrollada con **React**, **Tailwind CSS** y **TypeScript**. Integrada con APIs simuladas para live demos.
 - **Tecnologías**: React, TypeScript, Tailwind CSS, Node.js.
 - **Características**: Sistema de autenticación, carrito de compras, pagos simulados.
-
 [🔗 Ver Demo](https://novamart-demo.com)
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://via.placeholder.com/600x300" alt="NovaMart Preview" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+</div>
 
 ---
 
-### CRM para Gestión de Clientes 📊
+### **CRM para Gestión de Clientes 📊**
 > Sistema CRM para la gestión de clientes y oportunidades, diseñado para optimizar procesos empresariales.
 - **Tecnologías**: React, TypeScript, Node.js, MySQL.
 - **Características**: Dashboard interactivo, seguimiento de leads, informes personalizados.
-
 [🔗 Ver Demo](https://crm-demo.com)
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://via.placeholder.com/600x300" alt="CRM Preview" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+</div>
 
 ---
 
-### PinterFull 🎨
+### **PinterFull 🎨**
 > Juego colaborativo de dibujo y adivinanza desarrollado en Java.
 - **Tecnologías**: Java, Swing, Multithreading.
 - **Características**: Modo multijugador, chat integrado, diseño intuitivo.
-
 [🔗 Ver Código](https://github.com/YOUR_GITHUB_USERNAME/pinterfull)
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://via.placeholder.com/600x300" alt="PinterFull Preview" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+</div>
 
 ---
 
