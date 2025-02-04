@@ -2,9 +2,9 @@
 > **Full-Stack Developer | Data Analyst | Java Specialist | System & Computing Engineer**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somilsdiaz&theme=dark&hide_border=true" alt="Racha de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api?username=somilsdiaz&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somilsdiaz&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somilsdiaz&theme=dark&hide_border=true&background=0D1117&fire=FF5722&currStreakLabel=FF5722" alt="Racha de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=somilsdiaz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF5722" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somilsdiaz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF5722" alt="Lenguajes más usados" />
 </p>
 
 ---
