@@ -1,7 +1,10 @@
 # 👋 Hola, soy Somil 🚀
+> **Full-Stack Developer | Data Analyst | Java Specialist | System & Computing Engineer**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somilsdiaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somilsdiaz&theme=dark&hide_border=true" alt="Racha de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=somilsdiaz&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somilsdiaz&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados">
 </p>
 
 ---
@@ -17,6 +20,22 @@ Soy **Ingeniero en Sistemas y Computación** con una sólida formación en desar
 ---
 
 ## 💻 Habilidades Técnicas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" alt="Programming Languages" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,tailwind" alt="Web Development" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Tools and Technologies" />
+</div>
+
 
 #### Lenguajes y Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,6 +57,14 @@ Soy **Ingeniero en Sistemas y Computación** con una sólida formación en desar
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+
+## 📚 **Educación**
+- **Ingeniería en Sistemas y Computación**  
+  Universidad del Norte, Barranquilla, Colombia  
+  *Fecha de graduación esperada: Mediados de 2025*
 
 ---
 
@@ -76,21 +103,12 @@ Con experiencia en análisis de datos utilizando **Python**, **Power BI** y **SQ
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somilsdiaz&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somilsdiaz&theme=dark&hide_border=true" alt="Racha de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somilsdiaz&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados">
-</p>
-
----
-
-## 🌍 Conectemos
+## 🌐 Contacto
 
 📧 **Correo**: somil.sandoval@gmail.com - somils@uninorte.edu.co  
-🔗 **LinkedIn**: [Somil Sandoval Diaz]([https://www.linkedin.com/in/juanperez](https://www.linkedin.com/in/somil-sandoval-diaz/)  
-🐙 **GitHub**: [Somil Sandoval Diaz](https://github.com/somilsdiaz)
+🔗 **LinkedIn**: https://www.linkedin.com/in/somil-sandoval-diaz/)  
+🐙 **GitHub**: https://github.com/somilsdiaz
 
 ---
 
