@@ -11,7 +11,7 @@
 
 ## 🌟 Acerca de mí
 
-Soy **Ingeniero en Sistemas y Computación** con una sólida formación en desarrollo web front-end y full-stack. Me especializo en tecnologías como **React**, **Angular**, **Vue.js**, **TypeScript**, **Node.js**, y **Java**, y tengo experiencia en la creación de soluciones innovadoras y eficientes. Mi enfoque se centra en la resolución de problemas complejos, el trabajo en equipo multidisciplinario y la adaptabilidad a entornos dinámicos.
+Soy **Ingeniero en Sistemas y Computación** con una sólida formación en desarrollo web front-end y back-end, desarrollo de apliaciones mobiles y de escritorio. Me especializo en tecnologías como **React**, **Angular**, **Vue.js**, **TypeScript**, **Node.js**, **Java** y **python**, y tengo experiencia en la creación de soluciones innovadoras y eficientes. Mi enfoque se centra en la resolución de problemas complejos, el trabajo en equipo multidisciplinario y la adaptabilidad a entornos dinámicos.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=600&lines=Soy+un+desarrollador+apasionado;Me+gusta+resolver+problemas;Siempre+busco+innovar+y+aprender" alt="Typing SVG" />
