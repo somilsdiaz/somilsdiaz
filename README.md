@@ -82,11 +82,11 @@ Soy **Ingeniero en Sistemas y Computación** con una sólida formación en desar
 ### **NovaMart E-Commerce 🛒**
 > Plataforma de comercio electrónico dinámica desarrollada con **React**, **Tailwind CSS** y **TypeScript**. Integrada con APIs simuladas para live demos.
 - **Tecnologías**: React, TypeScript, Tailwind CSS, Node.js.
-- **Características**: Sistema de autenticación, carrito de compras, pagos simulados.
-[🔗 Ver Demo](https://novamart-demo.com)
+- **Características**: Pagina principal, lista de productos, detalles de productos, carrito de compras.
+[🔗 Ver Demo](https://web-fe-html-css-prj2-wobbegong-he44.onrender.com/)
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://via.placeholder.com/600x300" alt="NovaMart Preview" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/user-attachments/assets/b527bb95-e31e-4170-851d-55daddbac0ee" alt="NovaMart Preview" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
 </div>
 
 ---
@@ -94,11 +94,11 @@ Soy **Ingeniero en Sistemas y Computación** con una sólida formación en desar
 ### **CRM para Gestión de Clientes 📊**
 > Sistema CRM para la gestión de clientes y oportunidades, diseñado para optimizar procesos empresariales.
 - **Tecnologías**: React, TypeScript, Node.js, MySQL.
-- **Características**: Dashboard interactivo, seguimiento de leads, informes personalizados.
-[🔗 Ver Demo](https://crm-demo.com)
+- **Características**: Dashboard interactivo, detalles de clientes-oportunidades, gestion de clientes, oportunidades y actividades de seguimiento, plataforma responsive.
+[🔗 Ver Demo](https://web-fe-react-prj3-xgdi.onrender.com/)
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://via.placeholder.com/600x300" alt="CRM Preview" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/user-attachments/assets/a44d8769-fc45-48eb-91b1-1a31c12c01e9" alt="CRM Preview" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
 </div>
 
 ---
@@ -118,6 +118,9 @@ Soy **Ingeniero en Sistemas y Computación** con una sólida formación en desar
 ## 📈 Análisis de Datos y Metodologías Ágiles
 
 Con experiencia en análisis de datos utilizando **Python**, **Power BI** y **SQL**, me destaco por mi capacidad para extraer insights accionables y presentarlos de manera clara y efectiva. También he trabajado en equipos ágiles, aplicando metodologías como Scrum y Kanban para garantizar entregas de alta calidad.
+
+> [Clic aqui para saber mas sobre mi perfil de Analista de datos](https://somil-s-portfolio-data-analyst-profile.onrender.com/)
+![image](https://github.com/user-attachments/assets/9ba75e66-fc28-48c8-89d7-44718dd87cd4)
 
 ---
 
