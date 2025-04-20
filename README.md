@@ -91,9 +91,9 @@
         </td>
         <td align="center" width="96">
           <a href="#">
-            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="65" height="65" />
           </a>
-          <br>MongoDB
+          <br>Express.js
         </td>
         <td align="center" width="96">
           <a href="#">
@@ -101,6 +101,20 @@
           </a>
           <br>MySQL
         </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
+          </a>
+          <br>PostgreSQL
+        </td>
+        <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+        </a>
+        <br>MongoDB
+      </td>
       </tr>
     </table>
   </div>
@@ -139,6 +153,44 @@
             <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="65" height="65" />
           </a>
           <br>Vite
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=postgres" alt="pgAdmin" width="65" height="65" />
+          </a>
+          <br>pgAdmin
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="65" height="65" />
+          </a>
+          <br>Notion
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Workbench" width="65" height="65" />
+          </a>
+          <br>MySQL Workbench
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=azure" alt="SSMS" width="65" height="65" />
+          </a>
+          <br>SQL Server MS
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=java" alt="NetBeans" width="65" height="65" />
+          </a>
+          <br>Apache NetBeans
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="65" height="65" />
+          </a>
+          <br>Power BI
         </td>
       </tr>
     </table>
