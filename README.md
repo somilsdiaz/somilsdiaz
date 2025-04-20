@@ -7,7 +7,9 @@
 [![Java Specialist](https://img.shields.io/badge/-Java%20Specialist-0D1117?style=flat-square&logo=java&logoColor=FF5722)](https://github.com/somilsdiaz)
 [![Systems Engineer](https://img.shields.io/badge/-Systems%20Engineer-0D1117?style=flat-square&logo=engineering&logoColor=FF5722)](https://github.com/somilsdiaz)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=500&lines=Software+Engineer;Data+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Specialist;Data+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=somilsdiaz&style=flat-square&color=FF5722)
 [![GitHub followers](https://img.shields.io/github/followers/somilsdiaz?style=flat-square&color=FF5722)](https://github.com/somilsdiaz?tab=followers)
