@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5722&height=200&section=header&text=Somil%20Sandoval%20Diaz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Data%20Analyst&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5722&height=200&section=header&text=Somil%20Sandoval%20Diaz&fontSize=40&fontColor=ffffff&&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Data%20Analyst&descAlignY=60&descAlign=50" width="100%" />
 </div>
 <div align="center">
 <div align="center">
@@ -9,8 +9,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=somilsdiaz&style=flat-square&color=FF5722)
 [![GitHub followers](https://img.shields.io/github/followers/somilsdiaz?style=flat-square&color=FF5722)](https://github.com/somilsdiaz?tab=followers)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=somilsdiaz&theme=dark&hide_border=true&background=0D1117&fire=FF5722&currStreakLabel=FF5722" alt="GitHub Streak" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=somilsdiaz&theme=dark&hide_border=true&background=0D1117&fire=FF5722&currStreakLabel=FF5722" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somilsdiaz&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
 
 </div>
@@ -102,7 +105,7 @@
     </table>
   </div>
 
-### Tools & Technologies
+### Tools & Utilities
   <br>
   <div align="center">
     <table>
