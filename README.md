@@ -9,6 +9,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=somilsdiaz&style=flat-square&color=FF5722)
 [![GitHub followers](https://img.shields.io/github/followers/somilsdiaz?style=flat-square&color=FF5722)](https://github.com/somilsdiaz?tab=followers)
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somilsdiaz&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=320&bg_color=0D1117&title_color=FF5722&text_color=FFF&icon_color=FF5722" />
+  </a>
+</div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=somilsdiaz&theme=dark&hide_border=true&background=0D1117&fire=FF5722&currStreakLabel=FF5722" alt="GitHub Streak" />
 <div align="center">
@@ -176,12 +181,6 @@
         </td>
         <td align="center" width="96">
           <a href="#">
-            <img src="https://skillicons.dev/icons?i=azure" alt="SSMS" width="65" height="65" />
-          </a>
-          <br>SQL Server MS
-        </td>
-        <td align="center" width="96">
-          <a href="#">
             <img src="https://skillicons.dev/icons?i=java" alt="NetBeans" width="65" height="65" />
           </a>
           <br>Apache NetBeans
@@ -191,6 +190,32 @@
             <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="65" height="65" />
           </a>
           <br>Power BI
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="65" height="65" />
+          </a>
+          <br>Webpack
+        </td>
+                <td align="center" width="96">
+          <a href="#">
+            <img src="https://tweakers.net/ext/i/2007501794.png" alt="SQL Server Management Studio" width="65" height="65" />
+          </a>
+          <br>SQL Server Management Studio 20
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" />
+          </a>
+          <br>Postman
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Compass" width="65" height="65" />
+          </a>
+          <br>MongoDB Compass
         </td>
       </tr>
     </table>
